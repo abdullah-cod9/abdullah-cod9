@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abdullah Basem!
+# 👋 Hello, I'm Abdullah
 
 🎓 Full-Stack Web Developer | 🌐 Passionate about solving real-world problems with code | 🚀 Continuously learning new technologies and building exciting projects
 
