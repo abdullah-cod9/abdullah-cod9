@@ -24,6 +24,13 @@
 
 ---
 
+## 📈 GitHub Stats
+
+[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah-cod9&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-cod9)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🌟 Featured Projects
 
 ### 📱 [Project 1 Name](https://github.com/your-username/project-1)
